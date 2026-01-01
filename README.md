@@ -1,6 +1,6 @@
 # Interview Verification Web App
 
-Professional Streamlit app for verifying if a person is wearing a formal shirt and tie during an online interview.
+Professional Streamlit app for verifying if a person is wearing a shirt and tie during an online interview.
 
 ## Features
 - Live webcam detection
